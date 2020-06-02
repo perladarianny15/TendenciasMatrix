@@ -1,0 +1,14 @@
+Primer Loop: 4740
+Multiple de 10: 8681
+Multiple de 100: 12708
+Multiple de 1000: 17147
+
+Primer Loop: 58
+Multiple de RC 10: 42416
+Multiple de RC 100: 42580
+Multiple de RC 1000: 42804
+
+Primer Loop: 26
+Multiple de CR 10: 42557
+Multiple de CR 100: 42825
+Multiple de CR 1000: 43070
